@@ -1,0 +1,13 @@
+{
+    "name": "leocss/elibrary-print-desk",
+    "description": "Elibrary Print Desk.",
+    "keywords": [
+        "elibrary",
+        "project"
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "4.*"
+    },
+    "autoload": {
+    }
+}
